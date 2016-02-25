@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="snizl_api1_url">https://www.snizl.com/</string>
+    <string name="snizl_api1_auth_server_url">https://www.snizl.com/oauth/access_token</string>
+    <string name="snizl_android_id">9nClMh72c6uTrdk8lWSZUu0Pndll1lE2</string>
+    <string name="app_name">Snizl</string>
+    <string name="facebook_app_id">1502512339984910</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh_feed">Refresh Feed</string>
+    <string name="action_adjust_range">Adjust Range</string>
+    <string name="action_preference">Feed Preferences</string>
+    <string name="range">Range</string>
+    <string name="help_feedback">Help</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="my_settings">MY SETTINGS</string>
+    <string name="logout">Log Out</string>
+    <string name="deals_and_promos"><![CDATA[Deals & Promos]]></string>
+    <string name="add_a_deal">Add a Deal</string>
+    <string name="events">Events</string>
+    <string name="next">NEXT</string>
+    <string name="preivous">PREVIOUS</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="menu_deal">Deals</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_updates">Updates</string>
+    <string name="my_deals">My Deals</string>
+    <string name="my_events">My Events</string>
+    <string name="my_hub">My Hub</string>
+    <string name="updates">Updates</string>
+    <string name="sorry_something_went_wrong">Sorry, something went wrong</string>
+    <string name="signup_failed">Signup failed, please try again</string>
+    <string name="must_be_online_update_prefs">You need an internet connection to update your preferences</string>
+    <string name="must_be_online_update_details">You need an internet connection to update your details</string>
+    <string name="must_be_online_update_home_hub">You need an internet connection to update your home hub</string>
+    <string name="must_be_online_add_business">You need an internet connection to add a business</string>
+    <string name="must_be_online_play_video">You need an internet connection to play a video</string>
+    <string name="t_and_c_link">https://www.snizl.com/legal/terms</string>
+
+
+
+    <string name="no_offers">No offers found</string>
+    <string name="no_events">No events found</string>
+    <string name="confirm_my_location_map_activity_title">Confirm your location</string>
+    <string name="confirm_business_location_map_activity_title">Confirm business location</string>
+
+    <!-- Main Activity -->
+
+    <string name="search_hint">Search</string>
+    <string name="location_updated_successfully">Location information successfully updated</string>
+    <string name="location_update_failed">Failed to update location information</string>
+
+    <!-- Slidein Menu -->
+
+    <string name="slidein_menu_update_prefs">Update Preferences</string>
+    <string name="slidein_menu_update_details">Update Details</string>
+    <string name="slidein_menu_update_home_hub">Update Home Hub</string>
+    <string name="slidin_menu_add_business">Add Business</string>
+    <string name="slidin_menu_manage_businesses">Manage Businesses</string>
+    <string name="slidin_menu_blurb">Click each feed and explore your local community</string>
+
+    <!-- Common Form Elements -->
+
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_confirm_email">Confirm Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="prompt_city">City</string>
+    <string name="prompt_county">State</string>
+    <string name="prompt_postcode_zip">Zip</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_passwords_dont_match">Passwords do not match</string>
+    <string name="error_emails_dont_match">Emails do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="coming_soon">Coming soon</string>
+
+    <!-- Progress Dialogs -->
+
+    <string name="updating_details_progress_dialog">Updating, please wait…</string>
+    <string name="login_progress_signing_in">Signing in, please wait…</string>
+    <string name="registering_progress_dialog">Registering, please wait…</string>
+    <string name="reset_password_instruction_progress_dialog">Please wait…</string>
+    <string name="title_activity_buy_credits">BuyCreditsActivity</string>
+    <string name="title_activity_bio">BioActivity</string>
+
+    <!-- Login Page -->
+
+    <string name="action_reset_password">Reset password</string>
+
+    <!-- Deals Page -->
+
+    <string name="deals_search_hint">Search this Hub</string>
+
+    <!-- Wizard Pager -->
+    <string name="result">Result</string>
+    <string name="review">Review</string>
+    <string name="finish_and_not_pay">Create Business</string>
+    <string name="finish_and_pay">Pay for Package</string>
+
+    <!-- Video Uploading Notification -->
+
+    <string name="video_upload_notification_title">Uploading Video</string>
+    <string name="video_uploading_notification_message">Upload in progress</string>
+    <string name="video_upload_complete_notification_message">Upload complete</string>
+    <string name="video_upload_failed_notification_message">Upload failed, click to try again</string>
+
+    <!-- Breaking News Grid Item -->
+
+    <string name="breaking_news_header">BREAKING NEWS</string>
+    <string name="breaking_news_continue_reading">CONTINUE READING</string>
+
+    <!-- Video Recording -->
+
+    <string name="audioActivity">Audio Recording</string>
+    <string name="videoActivity">Video Recording</string>
+    <string name="playActivity">Playback</string>
+
+
+
+    <string name="recordBtn">Record</string>
+    <string name="stopRecordBtn">Stop</string>
+    <string name="playBtn">Play</string>
+    <string name="confirmBtn">Confirm</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="noExtStorageAvailable">External storage is unavailable</string>
+    <string name="recordingError">Error recording audio</string>
+    <string name="saveRecordError">Error saving audio record</string>
+    <string name="videoRecordingError">Recording video failed</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_business_selected">No Business Selected</string>
+    <string name="choose_image_video">Choose an Image or Video</string>
+    <string name="choose_image_video_detail">You can capture a new image or video with your devices camera or select
+        from your documents.</string>
+    
+    <string name="details_of_deal">Details of your Deal</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="start_time_date">Start date &amp; time</string>
+    <string name="duration">Duration</string>
+    <string name="days">Days</string>
+    <string name="min">Minutes</string>
+    <string name="hours">Hours</string>
+    <string name="how_to_claim">How to claim your Deal</string>
+    <string name="how_to_claim_detail">This is where you instruct the customer on how to claim your offer or deal by
+        either \"Instore\", \"Phone\", \"Website\" or \"Custom Action\". \n\n You can choose one or more. </string>
+   
+    <string name="instore">Instore</string>
+    <string name="website">Website</string>
+    <string name="Phone">Phone</string>
+    <string name="Custom">Custom</string>
+    <string name="review_deal">Review Deal</string>
+    <string name="save_post">SAVE &amp; POST DEAL</string>
+    <string name="about_deal">About the Deal</string>
+    <string name="deal_photos">Deal Photos</string>
+    <string name="deal_times">Deal Times</string>
+    <string name="claim">claim</string>
+    <string name="ends">Ends</string>
+    <string name="almost">ALMOST FINISHED</string>
+    <string name="finished">FINISHED</string>
+    <string name="show_voucher">Show this voucher at the point of purchase to claim the offer</string>
+    <string name="claim_title">Click on option to claim</string>
+    <string name="out_out_credit_dialog_title">Sorry! You\'re out of credits</string>
+    <string name="out_out_credit_dialog">In order to post a new Deal or an Event to Snizl, you need to have credits on
+        your account. </string>
+   
+    <string name="out_out_credit_dialog_sub">Login to your Snizl account on a web browser at www.snizl.com and click
+        SUBSCRIPTION or ADD CREDITS on your Buiness bar.    </string>
+
+    <string name="low_credit_dialog_title">You\'re almost out of credits</string>
+    <string name="low_credit_dialog">You only have 3 credits left, top up soon.</string>
+    <string name="low_credit_dialog_sub">Login to your Snizl account on a web browser at www.snizl.com and click
+        SUBSCRIPTION or ADD CREDITS on your Buiness bar.</string>
+    
+    <string name="add_event_dialog_title">Add a new event</string>
+    <string name="add_event_dialog">To add a new event, please log in via your web browser and select add event from
+        your business bar</string>
+    
+    <string name="settings">My Settings</string>
+    <string name="name">Name</string>
+    <string name="firstname">First Name</string>
+    <string name="secondname">Second Name</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_details_hint">Email address</string>
+    <string name="location">Location</string>
+    <string name="location_hint">Post Code</string>
+    <string name="password">Password</string>
+    <string name="password_hint">New Password</string>
+    <string name="password_hint2">Confirm New Password</string>
+    <string name="home_hub">Home Hub</string>
+    <string name="preferences">Preferences</string>
+    <string name="wave">Wave</string>
+    <string name="share">SHARE</string>
+    <string name="feed_title">Select your feed range</string>
+    <string name="feed_title_detail">Adjust the slider to your preferred distance. (Miles)</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_profile">Profile Settings</string>
+    <string name="settings_feed">Feed Settings</string>
+    <string name="settings_preferences">Preferences</string>
+    <string name="settings_preferences_detail">Choose your feed preferences</string>
+    <string name="settings_home_hub">Home Hub</string>
+    <string name="settings_home_hub_detail">Choose your home hub location</string>
+    <string name="settings_home_hub_title">Select your home hub</string>
+    <string name="set">Set</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="as">as Home Hub?</string>
+    <string name="home_select_detail">We have detected your current location, would you like to set this as your Home
+        Hub?  </string>
+  
+    <string name="or_enter">Or enter your Home Hub below:</string>
+    <string name="city_town">City/Town</string>
+    <string name="view_web">VIEW WEBSITE</string>
+    <string name="about_event">About the Event</string>
+    <string name="event_phones">Deal Photos</string>
+    <string name="update_title">Add an Update</string>
+    <string name="update_fragment_title">Enter your update</string>
+    <string name="update_fragment_texxt">Text</string>
+    <string name="offer_ends_in_header">OFFER ENDS IN</string>
+    <string name="offer_available_in_header">OFFER AVAILABLE IN</string>
+    <string name="offer_expired">Offer expired</string>
+    <string name="offer_click_to_set_time">Set time</string>
+    <string name="offer_click_to_set_date">Set date</string>
+    <string name="offer_start_time_header">OFFER START TIME</string>
+    <string name="offer_start_date_header">OFFER START DATE</string>
+    <string name="offer_end_time_header">OFFER END TIME</string>
+    <string name="offer_end_date_header">OFFER END DATE</string>
+    <string name="show_to_claim_offer">Show this voucher at the point of purchase to claim the offer</string>
+    <string name="claim_offer_done">Done</string>
+    <string name="offer_voucher_ends_in_header">OFFER ENDS IN</string>
+    <string name="offer_voucher_ends_in_countdown_days_label">days</string>
+    <string name="offer_voucher_ends_in_countdown_hours_label">hours</string>
+    <string name="offer_voucher_ends_in_countdown_minutes_label">mins</string>
+    <string name="offer_voucher_ends_in_countdown_seconds_label">secs</string>
+    <string name="upload_photos_or_videos">Upload Photos or Videos</string>
+    <string name="use_camera">Use Camera</string>
+    <string name="select_sinzl_gallery">Select from Snizl Gallery</string>
+    <string name="promo">Promo</string>
+    <string name="deal">Deal</string>
+    <string name="enter_custom_action">Enter a custom Action</string>
+    <string name="enter_store_detail">Enter store details</string>
+    <string name="enter_website_url">Enter website URL</string>
+    <string name="enter_phone_number">Enter phone number</string>
+
+    <string name="continue_text">Continue</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="no_results_found">No Results Found</string>
+    <string name="deal_posted_successfully">Deal Posted Successfully!</string>
+    <string name="shared_deal_message">Your deal poted successfully\nshare now on social media for\nmaximum exposure!    </string>
+
+    <string name="no_items">No items</string>
+    <string name="save">Save</string>
+    <string name="error_email_invalid">e-mail is invalid</string>
+    <string name="finding_business">Finding Business</string>
+    <string name="folowwing">Following</string>
+    <string name="follow">Follow</string>
+
+    <string name="choose_business">Choose which business to post from</string>
+    <string name="choose_business_detail">You have multiple businesses on Snizl, please choose which you would like to
+        make the post from.
+    </string>
+
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="activity_login_section_header">Sign in or register here</string>
+
+    <!-- Strings related to login -->
+    <string name="action_register">Sign up</string>
+    <string name="action_sign">Sign in</string>
+    <string name="action_gm_sign">Sign in with Google</string>
+    <string name="action_fb_sign">Sign in with Facebook</string>
+    <string name="action_twitter_sign">Log in with Twitter</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="with_existing_account">With existing account</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="login_or_register"><![CDATA[<b>Login</b> or <b>Register</b> with<br>Facebook or Google]]></string>
+
+
+    <string name="title_activity_register">Sign up</string>
+    <string name="your_details_header">YOUR DETAILS</string>
+    <string name="registering_progress_signing_in">Registering&#8230;</string>
+    <string name="register_add_business">I want to add my business</string>
+    <string name="action_register_and_continue">SIGN UP NOW</string>
+    <string name="register_tc_agree">By signing up to Snizl you agree to our</string>
+    <string name="register_tc">Terms and Conditions</string>
+    <string name="register_firsname">First Name</string>
+    <string name="register_secondname">Second Name</string>
+    <string name="register_email">Email Address</string>
+    <string name="register_password">Password</string>
+    <string name="register_business">If you\'re a business owner you can add your business to Snizl by logging in again
+        via a web browser at www.snizl.com and going to Manager Account section </string>
+   
+    <string name="title_dialog_reset_password">Reset password</string>
+    <string name="forgot_password_explanation">Please supply us with the email address associated with your account so
+        we can send you your password reset instructions.</string>
+    
+    <string name="action_reset_password_submit">Submit</string>
+    <string name="business">Business</string>
+    <string name="problem_finding_event">Sorry, there was a problem finding event</string>
+    <string name="problem_finding_deal">Sorry, there was a problem finding deal</string>
+    <string name="start_time">"Start Time: "</string>
+    <string name="end_time">"End Time: "</string>
+    <string name="available_in">Available in %s</string>
+    <string name="only_left">Only %s left</string>
+    <string name="uploading_deal">Uploading Deal</string>
+    <string name="uploading_offer_video">Uploading offer video</string>
+    <string name="offer_video_uplad_compl">Offer video upload completed</string>
+    <string name="offer_video_upload_err">Offer video upload error</string>
+    <string name="malformat_upload_request">"Malformed upload request. "</string>
+    <string name="uploading_update">Uploading Update</string>
+    <string name="uploading_update_video">Uploading Update video</string>
+    <string name="offer_video_uploaded">Offer video upload completed</string>
+    <string name="finding_event">Finding Event</string>
+    <string name="expired">Expired</string>
+    <string name="error_connetcing_to_google">Error connecting to Google Services</string>
+    <string name="email_not_found">Email address not found</string>
+    <string name="gps_settings">GPS settings</string>
+    <string name="gps_not_enabled">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="please_except_permissions">Please Accept Permissions</string>
+    <string name="in_settings_you_can">In SETTINGS you can: \n  ● Update your account details. \n ● Choose MY DEALS \n
+        preferences (the types of deals that you want to see) \n ● Change your home hub </string>
+
+
+   
+    <string name="range_is">Range is where you let Snizl know how many miles away you want to see DEALS and EVENTS in
+        AROUND ME</string>
+    
+    <string name="home">Home</string>
+    <string name="side_menu_is">This is the side menu Where you can click to view EVENTS and UPDATE</string>
+    <string name="wave_is">WAVE can be pressed daily and lets a business know that have noticed them.Followed Businesses
+        should WAVE back at you via UPDATES feed.</string>
+    
+    <string name="post_deals_and_updates">Post Deals and Update</string>
+    <string name="business_owners_press_here">BUSINESS OWNERS Press here to post.</string>
+    <string name="range_updated">Range Updated</string>
+    <string name="error_updating_range">Error Updating Range</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="user_prefferences">User Preferences</string>
+    <string name="updating_user">"Updating User "</string>
+    <string name="something_went_wrong">Sorry something went wrong</string>
+    <string name="error_searching">Error Searching</string>
+    <string name="updating_profile">Updating Profile</string>
+    <string name="error_updating_profile">Error, updating profile</string>
+    <string name="finding_local_hubs">Finding Local Hubs</string>
+    <string name="please_select_a_hub">Please Select a Home Hub</string>
+    <string name="please_select_a_valid_hub">Please Select a Valid Hub</string>
+    <string name="updating_current_hub">Updating current Hub</string>
+    <string name="no_hubs_near_you">Sorry, no hubs found near you</string>
+    <string name="about">ABOUT</string>
+    <string name="deals">DEALS</string>
+     <string name="wave_sent">Wave Sent</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="loading">Loading</string>
+    <string name="around_me">AROUND ME</string>
+    <string name="add_media">Add media</string>
+    <string name="cannot_upload_video_from_gc">Can not upload video from Google Cloud</string>
+    <string name="set_a_start_date">Please set a Start date</string>
+    <string name="set_a_title">Please set a title</string>
+    <string name="set_a_desc">Please set a Description</string>
+    <string name="deal_needs_to_run_longer">Deal needs to run longer then 5 mins</string>
+    <string name="how_to_claim_in_store">How to claim in store</string>
+    <string name="website_url">Website URL</string>
+    <string name="tel_number">Telephone Number</string>
+    <string name="custom_claim_desc">Description for Custom Claim</string>
+    <string name="select_a_way_to_claim">Please Select a way to claim your offer</string>
+    <string name="file_upload">File Upload</string>
+    <string name="uploading_in_progress">uploading in progress</string>
+    <string name="uploading_completed">upload completed successfully!</string>
+    <string name="upload_error">error during upload</string>
+    <string name="short_pw">The password must be at least 8 characters.</string>
+    <string name="unknown_error">Error Unknown</string>
+    <string name="connetcion_timed_out">Connection timed out</string>
+    <string name="unknown_error_code">"unknown error code "</string>
+    <string name="error">"Error "</string>
+    <string name="address">Address</string>
+    <string name="select">Select</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="Introduction">Introduction</string>
+    <string name="telephone">Telephone</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+
+</resources>

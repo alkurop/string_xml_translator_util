@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="Custom">Personalizado
+</string>
+    <string name="Introduction">
+   Introducción
+</string>
+    <string name="Phone">
+   Teléfono
+</string>
+    <string name="about">
+   ACERCA DE
+</string>
+    <string name="about_deal">
+   Sobre el reparto
+</string>
+    <string name="about_event">
+   Sobre el evento
+</string>
+    <string name="action_adjust_range">
+   Ajuste Rango
+</string>
+    <string name="action_fb_sign">
+   Iniciar sesión usando Facebook
+</string>
+    <string name="action_forgot_password">
+   Recuperar la contraseña perdida
+</string>
+    <string name="action_gm_sign">
+   Inicia sesión con Google
+</string>
+    <string name="action_preference">
+   Preferencias de alimentación
+</string>
+    <string name="action_refresh_feed">
+   Actualizar RSS
+</string>
+    <string name="action_register">
+   Regístrate
+</string>
+    <string name="action_register_and_continue">
+   REGISTRARSE
+</string>
+    <string name="action_reset_password">
+   Restablecer la contraseña
+</string>
+    <string name="action_reset_password_submit">
+   Enviar
+</string>
+    <string name="action_search">
+   Buscar
+</string>
+    <string name="action_settings">
+   ajustes
+</string>
+    <string name="action_sign">
+   Registrarse
+</string>
+    <string name="action_sign_in_short">
+   Registrarse
+</string>
+    <string name="action_twitter_sign">
+   Inicia sesión con Twitter
+</string>
+    <string name="activity_login_section_header">
+   Ingrese o regístrese aquí
+</string>
+    <string name="add_a_deal">
+   Añadir un trato
+</string>
+    <string name="add_event_dialog">
+   Para añadir un nuevo evento, por favor conectarse a través de su navegador web y seleccione Agregar evento desde
+        la barra de negocio
+</string>
+    <string name="add_event_dialog_title">
+   Añadir un nuevo evento
+</string>
+    <string name="add_media">
+   Agregar medios
+</string>
+    <string name="address">
+   Dirección
+</string>
+    <string name="almost">
+   CASI TERMINADO
+</string>
+    <string name="app_name">
+   Snizl
+</string>
+    <string name="around_me">
+   A MI ALREDEDOR
+</string>
+    <string name="as">
+   como eje casero?
+</string>
+    <string name="audioActivity">
+   Grabación de audio
+</string>
+    <string name="available_in">
+   Disponible en% s
+</string>
+    <string name="breaking_news_continue_reading">
+   SIGUE LEYENDO
+</string>
+    <string name="breaking_news_header">
+   NOTICIAS DE ÚLTIMA HORA
+</string>
+    <string name="business">
+   Negocio
+</string>
+    <string name="business_owners_press_here">
+   Propietarios de negocios de prensa aquÃ para fijar.
+</string>
+    <string name="cancelBtn">
+   Cancelar
+</string>
+    <string name="cannot_upload_video_from_gc">
+   No se puede subir el vídeo de la nube de Google
+</string>
+    <string name="choose_business">
+   Elija el cual las empresas para enviar desde
+</string>
+    <string name="choose_business_detail">
+   Tiene varias empresas en Snizl, elija la que le gustaría
+        hacer que el mensaje de.
+    
+</string>
+    <string name="choose_image_video">
+   Elige una imagen o vídeo
+</string>
+    <string name="choose_image_video_detail">
+   Se puede capturar una nueva imagen o video con su cámara o seleccione los dispositivos
+        de los documentos.
+</string>
+    <string name="city_town">
+   Ciudad / Pueblo
+</string>
+    <string name="claim">
+   Reclamación
+</string>
+    <string name="claim_offer_done">
+   Hecho
+</string>
+    <string name="claim_title">
+   Haga clic en la opción de reclamar
+</string>
+    <string name="close_drawer">
+   Cerrar cajón
+</string>
+    <string name="coming_soon">
+   Próximamente
+</string>
+    <string name="confirmBtn">
+   Confirmar
+</string>
+    <string name="confirm_business_location_map_activity_title">
+   Confirmar ubicación de la empresa
+</string>
+    <string name="confirm_my_location_map_activity_title">
+   Confirmar su ubicación
+</string>
+    <string name="connetcion_timed_out">
+   Tiempo de conexión agotado
+</string>
+    <string name="contact_details">
+   Detalles de contacto
+</string>
+    <string name="contact_details_hint">
+   Dirección de correo electrónico
+</string>
+    <string name="continue_text">
+   Continuar
+</string>
+    <string name="create_new_account">
+   Crear una nueva cuenta
+</string>
+    <string name="custom_claim_desc">
+   Descripción para notificación personalizada
+</string>
+    <string name="days">
+   Días
+</string>
+    <string name="deal">
+   Acuerdo
+</string>
+    <string name="deal_needs_to_run_longer">
+   Acuerdo necesita para funcionar ya continuación 5 minutos
+</string>
+    <string name="deal_photos">
+   trato Fotos
+</string>
+    <string name="deal_posted_successfully">
+   Mucho se ha publicado correctamente!
+</string>
+    <string name="deal_times">
+   Los tiempos acuerdo
+</string>
+    <string name="deals">
+   OFERTAS
+</string>
+    <string name="deals_search_hint">
+   Buscar en este Hub
+</string>
+    <string name="description">
+   Descripción
+</string>
+    <string name="details_of_deal">
+   Los detalles de su acuerdo
+</string>
+    <string name="dismiss">
+   Despedir
+</string>
+    <string name="duration">
+   Duración
+</string>
+    <string name="email_not_found">
+   Dirección de correo electrónico no encontrado
+</string>
+    <string name="end_time">
+   "Hora de finalización: "
+</string>
+    <string name="ends">
+   extremos
+</string>
+    <string name="enter_custom_action">
+   Introduzca una acción personalizada
+</string>
+    <string name="enter_phone_number">
+   Ingresa número telefónico
+</string>
+    <string name="enter_store_detail">
+   Introduzca los detalles del almacén
+</string>
+    <string name="enter_website_url">
+   Introduzca URL del sitio web
+</string>
+    <string name="error">
+   "Error"
+</string>
+    <string name="error_connetcing_to_google">
+   Error de conexión con los servicios de Google
+</string>
+    <string name="error_email_invalid">
+   el correo electrónico es invalido
+</string>
+    <string name="error_emails_dont_match">
+   Los correos no coinciden
+</string>
+    <string name="error_field_required">
+   este campo es requerido
+</string>
+    <string name="error_incorrect_password">
+   Esta contraseña es incorrecta
+</string>
+    <string name="error_invalid_email">
+   Esta dirección de correo electrónico no es válido
+</string>
+    <string name="error_invalid_password">
+   Esta contraseña es demasiado corta
+</string>
+    <string name="error_passwords_dont_match">
+   Las contraseñas no coinciden
+</string>
+    <string name="error_searching">
+   La búsqueda de error
+</string>
+    <string name="error_updating_profile">
+   Error, el perfil de la actualización
+</string>
+    <string name="error_updating_range">
+   Actualización de alcance de error
+</string>
+    <string name="event_phones">
+   trato Fotos
+</string>
+    <string name="events">
+   Eventos
+</string>
+    <string name="expired">
+   Muerto
+</string>
+    <string name="faq">
+   preguntas frecuentes
+</string>
+    <string name="feed_title">
+   Seleccione el rango de alimentación
+</string>
+    <string name="feed_title_detail">
+   Ajuste el control deslizante a su distancia preferida. (Miles)
+</string>
+    <string name="file_upload">
+   Subir archivo
+</string>
+    <string name="finding_business">
+   encontrar Negocio
+</string>
+    <string name="finding_event">
+   hallazgo de eventos
+</string>
+    <string name="finding_local_hubs">
+   Encontrar concentradores locales
+</string>
+    <string name="finish_and_not_pay">
+   crear negocios
+</string>
+    <string name="finish_and_pay">
+   Pagar por paquete
+</string>
+    <string name="finished">
+   TERMINADO
+</string>
+    <string name="firstname">
+   Nombre de pila
+</string>
+    <string name="follow">
+   Seguir
+</string>
+    <string name="folowwing">
+   Siguiendo
+</string>
+    <string name="forgot_password_explanation">
+   Por favor nos proporcione la dirección de correo electrónico asociada con su cuenta de manera
+        podemos enviarle sus instrucciones para restablecer la contraseña.
+</string>
+    <string name="get_started">
+   Empieza
+</string>
+    <string name="gps_not_enabled">
+   GPS no está activado. ¿Quieres ir al menú de configuración?
+</string>
+    <string name="gps_settings">
+   configuración de GPS
+</string>
+    <string name="hello_blank_fragment">
+   Hola fragmento en blanco
+</string>
+    <string name="hello_world">
+   ¡Hola Mundo!
+</string>
+    <string name="help_feedback">
+   Ayuda
+</string>
+    <string name="home">
+   Hogar
+</string>
+    <string name="home_hub">
+   Inicio Hub
+</string>
+    <string name="home_select_detail">
+   Hemos detectado que su ubicación actual, ¿le gustaría establecer esto como su hogar
+        ¿Cubo?
+</string>
+    <string name="hours">
+   horas
+</string>
+    <string name="how_to_claim">
+   Cómo reclamar su reparto
+</string>
+    <string name="how_to_claim_detail">
+   Aquí es donde se indica al cliente sobre cómo reclamar su oferta o oferta al
+        o bien \ "Instore \", \ "Teléfono \", \ "Sitio Web \" o \ "Acción \ Custom". \ N \ n Puede elegir uno o más.
+</string>
+    <string name="how_to_claim_in_store">
+   Cómo reclamar en el almacén
+</string>
+    <string name="in_settings_you_can">
+   En Configuraciones puede: \ n ● Actualización de datos de su cuenta. \ N ● Elija MIS OFERTAS \ n
+        preferencias (los tipos de ofertas que desea ver) \ n ● Cambiar el centro de la casa
+</string>
+    <string name="instore">
+   En el almacén
+</string>
+    <string name="loading">
+   Cargando
+</string>
+    <string name="location">
+   Ubicación
+</string>
+    <string name="location_hint">
+   Código postal
+</string>
+    <string name="location_update_failed">
+   No se pudo actualizar la información de ubicación
+</string>
+    <string name="location_updated_successfully">
+   La información de ubicación actualizada correctamente
+</string>
+    <string name="login_progress_signing_in">
+   Iniciar sesión, por favor espere ...
+</string>
+    <string name="logout">
+   Cerrar sesión
+</string>
+    <string name="low_credit_dialog">
+   Sólo queda 3 créditos, reponer pronto.
+</string>
+    <string name="low_credit_dialog_sub">
+   Ingrese a su cuenta Snizl en un navegador web en www.snizl.com y haga clic
+        Suscripción o agregar créditos en la barra de Buiness.
+</string>
+    <string name="low_credit_dialog_title">
+   Usted \ 're casi fuera de créditos
+</string>
+    <string name="malformat_upload_request">
+   "Solicitud de carga con formato incorrecto."
+</string>
+    <string name="menu_deal">
+   ofertas
+</string>
+    <string name="menu_events">
+   Eventos
+</string>
+    <string name="menu_updates">
+   actualizaciones
+</string>
+    <string name="min">
+   Minutos
+</string>
+    <string name="must_be_online_add_business">
+   Es necesario una conexión a Internet para añadir una empresa
+</string>
+    <string name="must_be_online_play_video">
+   Es necesario una conexión a Internet para reproducir un vídeo
+</string>
+    <string name="must_be_online_update_details">
+   Es necesario una conexión a Internet para actualizar sus datos
+</string>
+    <string name="must_be_online_update_home_hub">
+   Es necesario una conexión a Internet para actualizar su concentrador casa
+</string>
+    <string name="must_be_online_update_prefs">
+   Es necesario una conexión a Internet para actualizar sus preferencias
+</string>
+    <string name="my_deals">
+   Mis Ofertas
+</string>
+    <string name="my_events">
+   Mis eventos
+</string>
+    <string name="my_hub">
+   mi Hub
+</string>
+    <string name="my_settings">
+   MI CONFIGURACIÓN
+</string>
+    <string name="name">
+   Nombre
+</string>
+    <string name="next">
+   SIGUIENTE
+</string>
+    <string name="no">
+   No
+</string>
+    <string name="noExtStorageAvailable">
+   almacenamiento externo no está disponible
+</string>
+    <string name="no_business_selected">
+   No Empresa seleccionada
+</string>
+    <string name="no_events">
+   No se han encontrado eventos
+</string>
+    <string name="no_hubs_near_you">
+   Lo sentimos, no hay cubos encuentran cerca de usted
+</string>
+    <string name="no_internet_connection">
+   Sin conexión a Internet
+</string>
+    <string name="no_items">
+   No hay artículos
+</string>
+    <string name="no_offers">
+   No se encontraron ofertas
+</string>
+    <string name="no_results_found">
+   No se han encontrado resultados
+</string>
+    <string name="offer_available_in_header">
+   OFERTA DISPONIBLE EN
+</string>
+    <string name="offer_click_to_set_date">
+   Establece la fecha
+</string>
+    <string name="offer_click_to_set_time">
+   Fijar tiempo
+</string>
+    <string name="offer_end_date_header">
+   Fecha de finalización del
+</string>
+    <string name="offer_end_time_header">
+   OFERTA FIN DE TIEMPO
+</string>
+    <string name="offer_ends_in_header">
+   LA OFERTA TERMINA EN
+</string>
+    <string name="offer_expired">
+   La oferta ha caducado
+</string>
+    <string name="offer_start_date_header">
+   OFERTA FECHA DE INICIO
+</string>
+    <string name="offer_start_time_header">
+   OFERTA HORA DE INICIO
+</string>
+    <string name="offer_video_uplad_compl">
+   Oferta de carga de vídeo completado
+</string>
+    <string name="offer_video_upload_err">
+   Oferta de error de carga de vídeo
+</string>
+    <string name="offer_video_uploaded">
+   Oferta de carga de vídeo completado
+</string>
+    <string name="offer_voucher_ends_in_countdown_days_label">
+   días
+</string>
+    <string name="offer_voucher_ends_in_countdown_hours_label">
+   horas
+</string>
+    <string name="offer_voucher_ends_in_countdown_minutes_label">
+   mins
+</string>
+    <string name="offer_voucher_ends_in_countdown_seconds_label">
+   segs
+</string>
+    <string name="offer_voucher_ends_in_header">
+   LA OFERTA TERMINA EN
+</string>
+    <string name="only_left">
+   Sólo% s izquierda
+</string>
+    <string name="open_drawer">
+   Cajón abierto
+</string>
+    <string name="or_enter">
+   O introduzca su Hub principal a continuación:
+</string>
+    <string name="out_out_credit_dialog">
+   Con el fin de publicar un nuevo acuerdo o de un evento al Snizl, es necesario tener en créditos
+        su cuenta.
+</string>
+    <string name="out_out_credit_dialog_sub">
+   Ingrese a su cuenta Snizl en un navegador web en www.snizl.com y haga clic
+        Suscripción o agregar créditos en la barra de Buiness.
+</string>
+    <string name="out_out_credit_dialog_title">
+   ¡Lo siento! Usted \ 're fuera de créditos
+</string>
+    <string name="password">
+   Contraseña
+</string>
+    <string name="password_hint">
+   nueva contraseña
+</string>
+    <string name="password_hint2">
+   Confirmar nueva contraseña
+</string>
+    <string name="playActivity">
+   Reproducción
+</string>
+    <string name="playBtn">
+   Jugar
+</string>
+    <string name="please_except_permissions">
+   Por favor, aceptar permisos
+</string>
+    <string name="please_select_a_hub">
+   Por favor elija un concentrador de Inicio
+</string>
+    <string name="please_select_a_valid_hub">
+   Por favor elija un concentrador Válido
+</string>
+    <string name="please_wait">
+   Por favor espera ...
+</string>
+    <string name="post_deals_and_updates">
+   Pon ofertas y actualización
+</string>
+    <string name="preferences">
+   preferencias
+</string>
+    <string name="preivous">
+   ANTERIOR
+</string>
+    <string name="problem_finding_deal">
+   Ha habido un problema para encontrar oferta
+</string>
+    <string name="problem_finding_event">
+   Ha habido un problema para encontrar eventos
+</string>
+    <string name="promo">
+   Promoción
+</string>
+    <string name="prompt_city">
+   Ciudad
+</string>
+    <string name="prompt_confirm_email">
+   Confirmar el correo
+</string>
+    <string name="prompt_confirm_password">
+   Confirmar contraseña
+</string>
+    <string name="prompt_county">
+   Estado
+</string>
+    <string name="prompt_email">
+   Dirección de correo electrónico
+</string>
+    <string name="prompt_first_name">
+   Nombre de pila
+</string>
+    <string name="prompt_last_name">
+   Apellido
+</string>
+    <string name="prompt_password">
+   Contraseña
+</string>
+    <string name="prompt_postcode_zip">
+   Cremallera
+</string>
+    <string name="range">
+   Distancia
+</string>
+    <string name="range_is">
+   El rango es donde dejas Snizl sabe cuántas millas de distancia desea ver ofertas y eventos en
+        A MI ALREDEDOR
+</string>
+    <string name="range_updated">
+   Actualizado gama
+</string>
+    <string name="recordBtn">
+   Grabar
+</string>
+    <string name="recordingError">
+   Error de grabación de audio
+</string>
+    <string name="register_add_business">
+   Quiero añadir mi negocio
+</string>
+    <string name="register_business">
+   Si usted \ 're propietario de un negocio que usted puede añadir su empresa en Snizl por acceder de nuevo
+        a través de un navegador web en www.snizl.com e ir a la sección Account Manager
+</string>
+    <string name="register_email">
+   Dirección de correo electrónico
+</string>
+    <string name="register_firsname">
+   Nombre de pila
+</string>
+    <string name="register_password">
+   Contraseña
+</string>
+    <string name="register_secondname">
+   Segundo nombre
+</string>
+    <string name="register_tc">
+   Términos y Condiciones
+</string>
+    <string name="register_tc_agree">
+   Al suscribirse a Snizl está de acuerdo con nuestra
+</string>
+    <string name="registering_progress_dialog">
+   Registrarse, por favor espere ...
+</string>
+    <string name="registering_progress_signing_in">
+   ...
+</string>
+    <string name="reset_password_instruction_progress_dialog">
+   Por favor espera…
+</string>
+    <string name="result">
+   Resultado
+</string>
+    <string name="review">
+   revisión
+</string>
+    <string name="review_deal">
+   Trato opinión
+</string>
+    <string name="save">
+   Salvar
+</string>
+    <string name="saveRecordError">
+   ahorro de grabación de audio de error
+</string>
+    <string name="save_post">
+    acuerdo post
+</string>
+    <string name="search_hint">
+   Buscar
+</string>
+    <string name="secondname">
+   Segundo nombre
+</string>
+    <string name="select">
+   Seleccionar
+</string>
+    <string name="select_a_way_to_claim">
+   Por favor seleccione una forma de reclamar su oferta
+</string>
+    <string name="select_date">
+   Seleccione fecha
+</string>
+    <string name="select_sinzl_gallery">
+   Seleccione de Snizl Galería
+</string>
+    <string name="select_time">
+   Seleccione Hora
+</string>
+    <string name="set">
+   Conjunto
+</string>
+    <string name="set_a_desc">
+   Por favor, establece una descripción
+</string>
+    <string name="set_a_start_date">
+   Por favor, fijar una fecha de inicio
+</string>
+    <string name="set_a_title">
+   Por favor, establece un título
+</string>
+    <string name="settings">
+   Mi configuración
+</string>
+    <string name="settings_feed">
+   Configuraciones de vínculos
+</string>
+    <string name="settings_home_hub">
+   Inicio Hub
+</string>
+    <string name="settings_home_hub_detail">
+   Elija su ubicación concentrador casa
+</string>
+    <string name="settings_home_hub_title">
+   Seleccione su concentrador casa
+</string>
+    <string name="settings_preferences">
+   preferencias
+</string>
+    <string name="settings_preferences_detail">
+   Seleccione las preferencias de alimentación
+</string>
+    <string name="settings_profile">
+   Configuración de perfil
+</string>
+    <string name="settings_title">
+   ajustes
+</string>
+    <string name="share">
+   COMPARTIR
+</string>
+    <string name="shared_deal_message">
+   Su oferta poted éxito \ nComparte ahora en los medios de comunicación social para \ nNúmero máximo la exposición!
+</string>
+    <string name="short_pw">
+   La contraseña debe tener al menos 8 caracteres.
+</string>
+    <string name="show_to_claim_offer">
+   Mostrar este cupón en el punto de compra para reclamar la oferta
+</string>
+    <string name="show_voucher">
+   Mostrar este cupón en el punto de compra para reclamar la oferta
+</string>
+    <string name="side_menu_is">
+   Este es el menú lateral donde puede hacer clic para ver los eventos y ACTUALIZACIÓN
+</string>
+    <string name="sign_in">
+   Registrarse
+</string>
+    <string name="sign_up_now">
+   Inscríbete ahora
+</string>
+    <string name="signup_failed">
+   Inscripción fallado, por favor intente de nuevo
+</string>
+    <string name="slidein_menu_update_details">
+   Detalles de la actualización
+</string>
+    <string name="slidein_menu_update_home_hub">
+   Actualización Hub Inicio
+</string>
+    <string name="slidein_menu_update_prefs">
+   Preferencias de actualización
+</string>
+    <string name="slidin_menu_add_business">
+   Añadir negocios
+</string>
+    <string name="slidin_menu_blurb">
+   Haga clic en cada alimentación y explorar su comunidad local
+</string>
+    <string name="slidin_menu_manage_businesses">
+   Manejo de Negocios
+</string>
+    <string name="something_went_wrong">
+   Perdón, algo salió mal
+</string>
+    <string name="sorry_something_went_wrong">
+   Perdón, algo salió mal
+</string>
+    <string name="start_time">
+   "Hora de inicio: "
+</string>
+    <string name="start_time_date">
+    hora
+</string>
+    <string name="stopRecordBtn">
+   Detener
+</string>
+    <string name="t_and_c_link">
+   https://www.snizl.com/legal/terms
+</string>
+    <string name="tel_number">
+   Número de teléfono
+</string>
+    <string name="telephone">
+   Teléfono
+</string>
+    <string name="terms_and_conditions">
+   Términos y Condiciones
+</string>
+    <string name="title">
+   Título
+</string>
+    <string name="title_activity_bio">
+   bioactividad
+</string>
+    <string name="title_activity_buy_credits">
+   BuyCreditsActivity
+</string>
+    <string name="title_activity_login">
+   Registrarse
+</string>
+    <string name="title_activity_register">
+   Regístrate
+</string>
+    <string name="title_dialog_reset_password">
+   Restablecer la contraseña
+</string>
+    <string name="unknown_error">
+   error desconocido
+</string>
+    <string name="unknown_error_code">
+   "Código de error desconocido"
+</string>
+    <string name="update_fragment_texxt">
+   Texto
+</string>
+    <string name="update_fragment_title">
+   Introduzca su actualización
+</string>
+    <string name="update_title">
+   Añadir una Actualización
+</string>
+    <string name="updates">
+   actualizaciones
+</string>
+    <string name="updating_current_hub">
+   Actualización de Hub actual
+</string>
+    <string name="updating_details_progress_dialog">
+   Subiendo, por favor espere ...
+</string>
+    <string name="updating_profile">
+   Perfil actualizar
+</string>
+    <string name="updating_user">
+   "Actualización de usuario"
+</string>
+    <string name="upload_error">
+   error durante la carga
+</string>
+    <string name="upload_photos_or_videos">
+   Sube fotos o videos
+</string>
+    <string name="uploading_completed">
+   subir completado con éxito!
+</string>
+    <string name="uploading_deal">
+   Trato subir
+</string>
+    <string name="uploading_in_progress">
+   la carga en curso
+</string>
+    <string name="uploading_offer_video">
+   oferta de carga de vídeos
+</string>
+    <string name="uploading_update">
+   Carga de actualización
+</string>
+    <string name="uploading_update_video">
+   Carga de vídeo de actualización
+</string>
+    <string name="use_camera">
+   uso de la cámara
+</string>
+    <string name="user_prefferences">
+   Preferencias de usuario
+</string>
+    <string name="videoActivity">
+   Grabación de vídeo
+</string>
+    <string name="videoRecordingError">
+   grabación de vídeo fracasó
+</string>
+    <string name="video_upload_complete_notification_message">
+   Carga completa
+</string>
+    <string name="video_upload_failed_notification_message">
+   Sube anomalía, pulse para volver a intentarlo
+</string>
+    <string name="video_upload_notification_title">
+   Carga de vídeo
+</string>
+    <string name="video_uploading_notification_message">
+   Subida en curso
+</string>
+    <string name="view_web">
+   Ver el sitio web
+</string>
+    <string name="wave">
+   Ola
+</string>
+    <string name="wave_is">
+   WAVE se puede presionar a diario y permite un conocimiento de negocio que han notado them.Followed empresas
+        debe WAVE de vuelta a usted a través del feed actualizaciones.
+</string>
+    <string name="wave_sent">
+   ola Enviado
+</string>
+    <string name="website">
+   Sitio web
+</string>
+    <string name="website_url">
+   URL del sitio web
+</string>
+    <string name="with_existing_account">
+   Con cuenta existente
+</string>
+    <string name="yes">
+   Sí
+</string>
+    <string name="your_details_header">
+   TUS DETALLES
+</string>
+</resources>

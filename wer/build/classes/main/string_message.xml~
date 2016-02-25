@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_my_location_map_activity_title">Confirm your location</string>
+    <string name="confirm_business_location_map_activity_title">Confirm business location</string>
+    <string name="location_updated_successfully">Location information successfully updated</string>
+    <string name="slidin_menu_blurb">Click each feed and explore your local community</string>
+    <string name="updating_details_progress_dialog">Updating, please wait…</string>
+    <string name="login_progress_signing_in">Signing in, please wait…</string>
+    <string name="registering_progress_dialog">Registering, please wait…</string>
+    <string name="reset_password_instruction_progress_dialog">Please wait…</string>
+    <string name="video_upload_notification_title">Uploading Video</string>
+    <string name="video_uploading_notification_message">Upload in progress</string>
+    <string name="video_upload_complete_notification_message">Upload complete</string>
+    <string name="choose_image_video_detail">You can capture a new image or video with your devices camera or select
+        from your documents. </string>
+    <string name="how_to_claim_detail">This is where you instruct the customer on how to claim your offer or deal by
+        either \"Instore\", \"Phone\", \"Website\" or \"Custom Action\". \n\n You can choose one or more. </string>
+    <string name="show_voucher">Show this voucher at the point of purchase to claim the offer</string>
+    <string name="out_out_credit_dialog">In order to post a new Deal or an Event to Snizl, you need to have credits on
+        your account. </string>
+    <string name="out_out_credit_dialog_sub">Login to your Snizl account on a web browser at www.snizl.com and click
+        SUBSCRIPTION or ADD CREDITS on your Buiness bar.</string>
+    <string name="low_credit_dialog_title">You\'re almost out of credits</string>
+    <string name="low_credit_dialog">You only have 3 credits left, top up soon.</string>
+    <string name="low_credit_dialog_sub">Login to your Snizl account on a web browser at www.snizl.com and click
+        SUBSCRIPTION or ADD CREDITS on your Buiness bar.  </string>
+    <string name="add_event_dialog">To add a new event, please log in via your web browser and select add event from
+        your business bar </string>
+    <string name="feed_title_detail">Adjust the slider to your preferred distance. (Miles)</string>
+    <string name="home_select_detail">We have detected your current location, would you like to set this as your Home
+        Hub?  </string>
+    <string name="or_enter">Or enter your Home Hub below:</string>
+    <string name="show_to_claim_offer">Show this voucher at the point of purchase to claim the offer</string>
+    <string name="shared_deal_message">Your deal poted successfully\nshare now on social media for\nmaximum exposure!
+    </string>
+    <string name="choose_business">Choose which business to post from</string>
+    <string name="choose_business_detail">You have multiple businesses on Snizl, please choose which you would like to
+        make the post from.
+    </string>
+    <string name="register_business">If you\'re a business owner you can add your business to Snizl by logging in again
+        via a web browser at www.snizl.com and going to Manager Account section</string>
+
+    <string name="forgot_password_explanation">Please supply us with the email address associated with your account so
+        we can send you your password reset instructions.</string>
+    <string name="in_settings_you_can">In SETTINGS you can: \n ● Update your account details. \n ● Choose MY DEALS \n
+        preferences (the types of deals that you want to see) \n ● Change your home hub </string>
+    <string name="range_is">Range is where you let Snizl know how many miles away you want to see DEALS and EVENTS in
+        AROUND ME </string>
+    <string name="side_menu_is">This is the side menu Where you can click to view EVENTS and UPDATE</string>
+    <string name="wave_is">WAVE can be pressed daily and lets a business know that have noticed them.Followed Businesses
+        should WAVE back at you via UPDATES feed.</string>
+
+    <string name="choose_image_video">Choose an Image or Video</string>
+    <string name="details_of_deal">Details of your Deal</string>
+    <string name="claim_title">Click on option to claim</string>
+    <string name="add_event_dialog_title">Add a new event</string>
+    <string name="settings_preferences_detail">Choose your feed preferences</string>
+    <string name="settings_home_hub_detail">Choose your home hub location</string>
+    <string name="settings_home_hub_title">Select your home hub</string>
+    <string name="prompt_confirm_email">Confirm Email Address</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="how_to_claim">How to claim your Deal</string>
+    <string name="feed_title">Select your feed range</string>
+    <string name="no_results_found">No Results Found</string>
+    <string name="deal_posted_successfully">Deal Posted Successfully!</string>
+    <string name="business_owners_press_here">BUSINESS OWNERS Press here to post.</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="user_prefferences">User Preferences</string>
+    <string name="updating_user">"Updating User "</string>
+    <string name="updating_profile">Updating Profile</string>
+    <string name="finding_local_hubs">Finding Local Hubs</string>
+    <string name="please_select_a_hub">Please Select a Home Hub</string>
+    <string name="please_select_a_valid_hub">Please Select a Valid Hub</string>
+    <string name="updating_current_hub">Updating current Hub</string>
+    <string name="uploading_deal">Uploading Deal</string>
+    <string name="uploading_offer_video">Uploading offer video</string>
+    <string name="offer_video_uplad_compl">Offer video upload completed</string>
+
+    <string name="uploading_update">Uploading Update</string>
+    <string name="uploading_update_video">Uploading Update video</string>
+    <string name="offer_video_uploaded">Offer video upload completed</string>
+    <string name="how_to_claim_in_store">How to claim in store</string>
+    <string name="custom_claim_desc">Description for Custom Claim</string>
+    <string name="finding_event">Finding Event</string>
+    <string name="expired">Expired</string>
+    <string name="register_tc_agree">By signing up to Snizl you agree to our</string>
+</resources>
